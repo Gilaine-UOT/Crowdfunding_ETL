@@ -3,12 +3,12 @@
 
 ### Building an ETL pipeline using Python and Pandas to extract and transform data and PostgreSQL with pgAdmin to load
 
-## Jupyter Notebook Extract/Transform
+## Jupyter Notebook used to Extract and Transform
+generated the clean CSV output tables
 
-Run this file to generate the clean CSV output tables
 
+## Entity Relationship Diagram: Crowdfunding_ERD
 
-## Entity Relationship Diagram: Crowdfunding_ERD.png
 Visualization of the cleaned tables & their relationships
 
 
